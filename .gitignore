@@ -16,3 +16,7 @@
 *.exe
 *.out
 *.app
+
+src/boot/build.sh
+
+src/boot/stage1
